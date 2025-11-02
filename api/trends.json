@@ -1,133 +1,111 @@
 {
-  "generated_at": "2025-11-01T10:44:51.275536+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-11-02T10:49:37.562015+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "10时49分"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美参议院否决特朗普关税政策意味啥",
-          "url": "https://www.toutiao.com/trending/7567416043790929444/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "10时49分"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "10时49分"
         },
         {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "10时49分"
         }
       ]
     }
