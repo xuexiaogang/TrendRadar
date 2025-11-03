@@ -1,94 +1,105 @@
 {
-  "generated_at": "2025-11-02T10:49:37.562015+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-03T10:50:52.423300+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
-          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
           "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时50分"
         },
         {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
+          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时50分"
+        },
+        {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "如何看特朗普说台海政策是秘密",
+          "url": "https://www.toutiao.com/trending/7568264436717194788/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "学者：特朗普抛G2概念是霸权算计",
+          "url": "https://www.toutiao.com/trending/7568286962377821723/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月03日（周一）上海金早盘价为914.28元/克，较国际金价(914.63元/克)，低0.35元/克",
+          "url": "https://flash.jin10.com/detail/20251103101800417800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26pos%3D21%26stream_entry_id%3D31%26display_time%3D1762138102%26pre_seqid%3D17621381020710253298984&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
@@ -97,15 +108,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上周多名美联储官员公开表态反对美联储12月降息，美元指数一路走高，在三个月高点附近徘徊；欧佩克+八国决定下月继续增产，明年一季度暂停增产，油价今日亚盘跳空高开，当前美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251103103249533800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
