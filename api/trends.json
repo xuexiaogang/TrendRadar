@@ -1,184 +1,189 @@
 {
-  "generated_at": "2025-12-02T10:50:09.077221+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-12-03T10:49:22.140673+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251203103110984800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
+          "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3013379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "time_info": "10时49分"
         },
         {
-          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
+          "title": "美特使与特朗普女婿漫步莫斯科红场",
+          "url": "https://www.toutiao.com/trending/7579132126877548586/",
+          "source": "今日头条",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
-          "url": "https://flash.jin10.com/detail/20251202101919680800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "10时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
-          "url": "https://www.cls.cn/detail/2216490",
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
+          "url": "https://flash.jin10.com/detail/20251203101800307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "黄金价格走高 等待美联储政策指引",
+          "url": "https://flash.jin10.com/detail/20251203095707024800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     }
