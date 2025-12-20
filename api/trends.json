@@ -1,161 +1,183 @@
 {
-  "generated_at": "2025-12-19T10:54:51.839642+08:00",
+  "generated_at": "2025-12-20T10:46:24.147571+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普再次向乌克兰施压",
-          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         },
         {
-          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2233937",
-          "source": "财联社热门",
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
+          "url": "https://flash.jin10.com/detail/20251220082409385800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
+          "url": "https://flash.jin10.com/detail/20251220081426145800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
-          "url": "https://www.cls.cn/detail/2233997",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         },
         {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时46分"
+        },
         {
-          "title": "新华社：2025“年度字词”揭晓，年度国内词为“深度求索（DeepSeek）",
-          "url": "https://wallstreetcn.com/livenews/3023500",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "titles": [
         {
-          "title": "2026黄金价格展望",
-          "url": "https://www.toutiao.com/trending/7585030477258427914/",
-          "source": "今日头条",
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
+          "source": "凤凰网",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "10时46分"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
+          "url": "https://www.zhihu.com/question/1918243705258751137",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     }
