@@ -1,111 +1,183 @@
 {
-  "generated_at": "2025-12-22T11:02:40.057272+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-23T10:57:11.047214+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
-          "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
-          "url": "https://flash.jin10.com/detail/20251222102452415800",
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "特朗普宣布新型战舰计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0%E8%AE%A1%E5%88%92%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "金银强势刷新历史新高！特朗普下周或任命新美联储主席；俄罗斯开始撤离驻委内瑞拉外交官家属，日本财相发出强烈干预警告……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251223103135457800",
           "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "10时57分"
         },
         {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
+          "title": "美国司法部官员表示，美国在委内瑞拉附近追击油轮的行动，是特朗普政府一项新的法律战略的一部分，目的是扣押在世界各地运输黑市石油的船只。",
+          "url": "https://flash.jin10.com/detail/20251223102910052800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "印尼首席关税谈判代表：已与美国贸易代表会晤，会谈进展顺利。双方已在所有实质性问题上达成一致。美方正在安排特朗普与普拉博沃的会晤时间。",
+          "url": "https://wallstreetcn.com/livenews/3025254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗国防发展计划不容谈判",
+          "url": "https://wallstreetcn.com/livenews/3025256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "10时57分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价再创新高，哪些长线逻辑值得关注？",
-          "url": "https://flash.jin10.com/detail/20251222102334389800",
+          "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
+          "url": "https://flash.jin10.com/detail/20251223101900275800",
           "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "10时57分"
         }
       ]
     },
@@ -114,32 +186,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美媒：以色列或再打伊朗",
-          "url": "https://www.douyin.com/hot/2343367",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         }
       ]
     }
