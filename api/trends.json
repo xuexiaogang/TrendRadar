@@ -1,94 +1,111 @@
 {
-  "generated_at": "2025-12-27T10:52:56.148622+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-12-28T11:08:27.794228+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时08分"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
+          "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
+          "url": "https://flash.jin10.com/detail/20251228090239381800",
+          "source": "金十数据",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时08分"
         },
         {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
+          "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
+          "url": "https://flash.jin10.com/detail/20251228090052065800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
-          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时08分"
         },
         {
-          "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
-          "url": "https://news.ifeng.com/c/8pQ6l11ek21",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "特朗普：“未经我批准，泽连斯基一无所有”",
-          "url": "https://flash.jin10.com/detail/20251227085451542800",
+          "title": "泽连斯基抵达美国，准备与特朗普会谈",
+          "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
+          "url": "https://flash.jin10.com/detail/20251228090341310800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
+          "url": "https://flash.jin10.com/detail/20251228085718597800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
