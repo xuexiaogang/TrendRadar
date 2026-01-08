@@ -1,121 +1,154 @@
 {
-  "generated_at": "2026-01-07T11:00:36.732723+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-01-08T10:59:46.653821+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
-          "url": "https://news.ifeng.com/c/8piFwnPic7a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
           "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
+          "title": "美国扣押两艘油轮升级对委石油禁运，无视俄海军护航；美媒曝特朗普筹划控制委国有石油公司，欲将油价压至更低的每桶50美元，以实现降低美国能源价格的承诺……美油多日呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260108103607005800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
           "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
-          "url": "https://www.cls.cn/detail/2249781",
-          "source": "财联社热门",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
-          "url": "https://www.cls.cn/detail/2249866",
-          "source": "财联社热门",
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "特朗普称妻子讨厌他跳舞：不像个总统",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A6%BB%E5%AD%90%E8%AE%A8%E5%8E%8C%E4%BB%96%E8%B7%B3%E8%88%9E%EF%BC%9A%E4%B8%8D%E5%83%8F%E4%B8%AA%E6%80%BB%E7%BB%9F",
-          "source": "百度热搜",
+          "title": "美媒：特朗普筹划控制委国有石油公司 目标是将油价压低至50美元/桶",
+          "url": "https://flash.jin10.com/detail/20260108101132148800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普希望将油价降至每桶50美元。 特朗普政府计划将对委内瑞拉国家石油公司施加一定控制。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "弹劾阴影下特朗普开启“保命战”",
+          "url": "https://www.toutiao.com/trending/7592784463789035050/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
+          "url": "https://flash.jin10.com/detail/20260108100300956800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
+          "url": "https://wallstreetcn.com/livenews/3032839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
+          "url": "https://wallstreetcn.com/livenews/3032837",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
-          "title": "特朗普将于美国东部时间周三下午2:30（北京时间次日凌晨3:30）签署行政命令。",
-          "url": "https://flash.jin10.com/detail/20260107102154678800",
-          "source": "金十数据",
+          "title": "美国副总统万斯：特朗普将对格陵兰岛做出最终决定。 格陵兰岛对美国国家安全至关重要。 丹麦人对安全领域投资不足。 特朗普愿意在格陵兰岛问题上尽其所能。",
+          "url": "https://wallstreetcn.com/livenews/3032830",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "10时59分"
         }
       ]
     },
@@ -124,54 +157,82 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260107103252586800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2251045",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
     {
       "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
+          "url": "https://flash.jin10.com/detail/20260108102327736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
-          "url": "https://flash.jin10.com/detail/20260107101853429800",
-          "source": "金十数据",
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "10时59分"
         }
       ]
     },
@@ -184,11 +245,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
           "source": "贴吧",
           "ranks": [
-            13
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
