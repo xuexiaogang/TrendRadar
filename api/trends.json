@@ -1,320 +1,365 @@
 {
-  "generated_at": "2026-01-11T11:10:32.253275+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-12T11:08:17.319845+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
-          "url": "https://wallstreetcn.com/articles/3763015",
-          "source": "华尔街见闻",
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
-          "url": "https://wallstreetcn.com/articles/3763006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
-          "url": "https://wallstreetcn.com/articles/3763014",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
-          "url": "https://flash.jin10.com/detail/20260111084513676800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://wallstreetcn.com/livenews/3034603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
-          "url": "https://flash.jin10.com/detail/20260111084158477800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
-          "url": "https://flash.jin10.com/detail/20260111083436451800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/livenews/3034596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
-          "url": "https://flash.jin10.com/detail/20260111081229064800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "曝特朗普已听取军事打击伊朗方案汇报",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E5%90%AC%E5%8F%96%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88%E6%B1%87%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
-          "url": "https://flash.jin10.com/detail/20260110232001539800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
-          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
-          "url": "https://flash.jin10.com/detail/20260111102147236800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "伊朗官员：这是外部势力策划的混合战争，旨在引发内战",
-          "url": "https://news.ifeng.com/c/8poxqz20kTm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
-          "url": "https://wallstreetcn.com/livenews/3034611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
-          "url": "https://www.zhihu.com/question/1993449447351349768",
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
           "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "伊朗全国局势平稳未发生动荡",
-          "url": "https://www.toutiao.com/trending/7593543519537987611/",
-          "source": "今日头条",
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "消息人士称以军目前没有对伊朗的进攻意图",
-          "url": "https://wallstreetcn.com/livenews/3034591",
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普称伊朗提议谈判但美国或“先行动”",
+          "url": "https://wallstreetcn.com/livenews/3034906",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "消息人士称以军目前没有对伊朗的进攻意图",
-          "url": "https://flash.jin10.com/detail/20260111081558961800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "佩泽希齐扬：伊朗人民将坚定支持国家",
-          "url": "https://www.toutiao.com/trending/7593086043964981267/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "特朗普：可能否决延长医疗补贴的法案",
+          "url": "https://flash.jin10.com/detail/20260112104054089800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普称信用卡公司若不设定利率上限将违法",
+          "url": "https://flash.jin10.com/detail/20260112103526201800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普否认参与司法部向美联储发出的传票。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3034896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "美国总统特朗普：正安排与伊朗举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3034892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普暗示他可能会否决延长《平价医疗法案》。",
+          "url": "https://wallstreetcn.com/livenews/3034887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普否认涉足司法部对美联储的传票调查",
+          "url": "https://flash.jin10.com/detail/20260112101639915800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "据NBC：特朗普否认参与司法部对美联储发出传票行动，表示“对此一无所知”。",
+          "url": "https://flash.jin10.com/detail/20260112100707913800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普：启动了购买抵押贷款支持证券（MBS）的程序。",
+          "url": "https://wallstreetcn.com/livenews/3034882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
+          "url": "https://wallstreetcn.com/livenews/3034881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
+          "url": "https://wallstreetcn.com/livenews/3034877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
+          "url": "https://wallstreetcn.com/livenews/3034875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗警告美以：若遭攻击必将还击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
+          "url": "https://www.zhihu.com/question/1989482381921518040",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗警告若遭攻击必将还击",
+          "url": "https://www.douyin.com/hot/2364390",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
+          "url": "https://flash.jin10.com/detail/20260112110122883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多重因素共振推动现货金银早盘齐创历史新高，贵金属引来新一轮狂欢。黄金多头较上一交易日升温，白银现卖出信号。尽管油价早盘走高，但高盛研报称，供应充裕将使价格继续下行，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260112105142529800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
