@@ -1,210 +1,343 @@
 {
-  "generated_at": "2026-01-15T11:01:42.401966+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-16T11:02:08.991073+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 13,
       "titles": [
         {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
-          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://news.ifeng.com/c/8pvbgYIqXSz",
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
-          "url": "https://www.cls.cn/detail/2258108",
-          "source": "财联社热门",
+          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
+          "url": "https://wallstreetcn.com/livenews/3038420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "马查多把诺贝尔和平奖颁给特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9F%A5%E5%A4%9A%E6%8A%8A%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%E9%A2%81%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "安理会15日将就伊朗局势召开会议",
-          "url": "https://wallstreetcn.com/livenews/3037481",
-          "source": "华尔街见闻-快讯",
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "安理会将在当地时间1月15日就伊朗局势举行相关会议。",
-          "url": "https://flash.jin10.com/detail/20260115102723442800",
-          "source": "金十数据",
+          "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
+          "title": "英媒：特朗普首笔委内瑞拉石油出售交易落入超级捐款人旗下公司",
+          "url": "https://flash.jin10.com/detail/20260116103848062800",
+          "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时02分"
         },
         {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://www.toutiao.com/trending/7595383350190149161/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "伊朗外长：政府已完全掌控局面 局势已平静",
-          "url": "https://wallstreetcn.com/livenews/3037453",
+          "title": "俄回应特朗普对伊朗贸易伙伴加税",
+          "url": "https://wallstreetcn.com/livenews/3038398",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时02分"
+        },
+        {
+          "title": "马查多把诺贝尔和平奖颁给特朗普",
+          "url": "https://wallstreetcn.com/livenews/3038384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "伊朗",
+      "match_count": 8,
       "titles": [
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
+          "title": "火药味拉满,美国酝酿搞伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "特朗普称泽连斯基阻碍乌和平协议达成",
-          "url": "https://www.toutiao.com/trending/7595121166218641434/",
-          "source": "今日头条",
+          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
+          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
+          "source": "凤凰网",
           "ranks": [
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "哥伦比亚总统佩特罗：将于2月3日与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20260115100948862800",
-          "source": "金十数据",
+          "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2259666",
+          "source": "财联社热门",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "特朗普：虽然鲍威尔正面临调查 但暂时无意炒了他",
-          "url": "https://flash.jin10.com/detail/20260115100746794800",
-          "source": "金十数据",
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
           "ranks": [
-            27
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "美国白宫：美国总统特朗普将于周四与委内瑞拉反对派领导人共进午餐。",
-          "url": "https://flash.jin10.com/detail/20260115100719486800",
-          "source": "金十数据",
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://wallstreetcn.com/livenews/3038378",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）上海金早盘价为1031.13元/克，较国际金价（1030.62元/克）高0.51元/克",
+          "url": "https://flash.jin10.com/detail/20260116101751108800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时02分"
         }
       ]
     }
