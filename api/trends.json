@@ -1,399 +1,282 @@
 {
-  "generated_at": "2026-06-09T13:10:47.488109+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-10T13:23:23.784704+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 17,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "titles": [
         {
-          "title": "特朗普：内塔尼亚胡，你最好小心点！",
-          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "美国总统特朗普：（被问及尼克斯球迷对他的反应时）我认为大多数是欢呼声。声音很大，气氛非常热烈。",
-          "url": "https://flash.jin10.com/detail/20260609125116958800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的对话）我们聊得很好。他被打了后进行反击，我不能怪他。",
-          "url": "https://flash.jin10.com/detail/20260609124948265800",
+          "title": "伊朗外交部：伊朗外长阿拉格齐与沙特外交大臣和土耳其外长就美国袭击后的局势进行了电话交流。",
+          "url": "https://flash.jin10.com/detail/20260610130057318800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
-          "url": "https://news.ifeng.com/c/8toKe0HelhI",
-          "source": "凤凰网",
+          "title": "伊朗外交部谴责美国对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260610125258381800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "特朗普：我们正处于有望达成一项好协议的最后阵痛阶段，非常接近达成一项强有力的好协议。",
-          "url": "https://wallstreetcn.com/livenews/3116543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "WTI原油期货日内跌超1%。特朗普称，与伊朗的谈判仍在进行中，可能在一两天内对伊朗问题有一个明确的想法（或决定）；封锁仍在继续维持。",
-          "url": "https://wallstreetcn.com/livenews/3116539",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
-          "url": "https://www.zhihu.com/question/2047287128892224880",
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伊朗警告地区各国不要允许美国使用其领土。",
+          "url": "https://wallstreetcn.com/livenews/3117225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.douyin.com/hot/2529144",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047888566534067312",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "特朗普提名前私人律师，任司法部长",
-          "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗经济面临困境，必须达成协议。",
-          "url": "https://flash.jin10.com/detail/20260609123839589800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "特朗普看NBA总决赛睡着了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8BNBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%9D%A1%E7%9D%80%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "美国总统特朗普：美国将于周二发布关于此事件的报告。",
-          "url": "https://flash.jin10.com/detail/20260609123624289800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美国总统特朗普：在霍尔木兹海峡坠毁的飞行员状况良好。",
-          "url": "https://flash.jin10.com/detail/20260609123615976800",
-          "source": "金十数据",
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "美国总统特朗普：与伊朗的谈判仍在进行中。可能在几天内提出伊朗协议的提案。封锁持续生效。",
-          "url": "https://flash.jin10.com/detail/20260609122439622800",
-          "source": "金十数据",
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "特朗普遭全场嘘声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E5%85%A8%E5%9C%BA%E5%98%98%E5%A3%B0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "约旦武装部队称击落5枚从伊朗发射的导弹",
+          "url": "https://wallstreetcn.com/livenews/3117210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "伊以看穿特朗普底牌？三国博弈百日后剧本推演！",
-          "url": "https://flash.jin10.com/detail/20260609121739887800",
-          "source": "金十数据",
+          "title": "伊朗称对美军第五舰队发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
           "ranks": [
-            24
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
-          "url": "https://www.cls.cn/detail/2394225",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
-          "url": "https://www.cls.cn/detail/2394207",
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“未来两周将对伊朗全面胜利”",
-          "url": "https://news.ifeng.com/c/8to7gfqUzZi",
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
         },
         {
-          "title": "伊朗开启世界杯史上最特殊参赛模式",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
-          "url": "https://wallstreetcn.com/livenews/3116523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时23分"
+        },
         {
-          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
-          "source": "澎湃新闻",
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时23分"
+        },
         {
-          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
-          "url": "https://wallstreetcn.com/livenews/3116529",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "特朗普指示美军打击伊朗 伊外长发警告",
+          "url": "https://www.toutiao.com/trending/7649536140243897906/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
