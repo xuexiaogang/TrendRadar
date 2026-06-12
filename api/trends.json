@@ -1,288 +1,255 @@
 {
-  "generated_at": "2026-06-11T13:53:36.231404+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-12T13:52:16.729930+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "titles": [
         {
-          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
-          "url": "https://www.cls.cn/detail/2396599",
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "伊朗革命卫队海军：我们警告任何在海湾和阿曼海停泊的船只，若靠近霍尔木兹海峡，将被视为与敌方合作。",
-          "url": "https://flash.jin10.com/detail/20260611134450932800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗在美国袭击后打击了美国在巴林的第五舰队 。",
-          "url": "https://flash.jin10.com/detail/20260611134339359800",
-          "source": "金十数据",
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "“超级挤压”来袭！伊朗战争引爆金属市场，铜铝价格或数年居高不下",
-          "url": "https://flash.jin10.com/detail/20260611134228323800",
-          "source": "金十数据",
+          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
+          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "伊朗：用12枚导弹摧毁美军大量战机",
-          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "科威特民航局宣布，因伊朗袭击而暂停的航班已恢复。",
-          "url": "https://flash.jin10.com/detail/20260611133729543800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2396606",
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
           "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "title": "特朗普急得要命，伊朗那边却“信号不好”：美伊谈判卡在“人肉快递”",
+          "url": "https://flash.jin10.com/detail/20260612133053435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "伊朗全面关闭霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7649365955310718483/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "伊朗称用12枚导弹摧毁约旦美军基地“大量战机”",
-          "url": "https://wallstreetcn.com/livenews/3117893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
         {
-          "title": "特朗普公开了一个秘密，全世界都有点懵",
-          "url": "https://news.ifeng.com/c/8tos3hBXZVW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "美媒：如今特朗普最头痛的是这件事",
-          "url": "https://news.ifeng.com/c/8trayef73Wv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
+          "title": "埃及敦促美国和伊朗抓住“现有机会”结束战争",
+          "url": "https://flash.jin10.com/detail/20260612133100291800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
-          "url": "https://www.cls.cn/detail/2396641",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特朗普透露生日愿望",
-          "url": "https://news.ifeng.com/c/8trjoJ9cLMY",
+          "title": "美军袭击油轮致3名印度船员死亡，伊朗：海盗行径",
+          "url": "https://news.ifeng.com/c/8ttEGd5sAPh",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "特朗普说生日愿望是世界和平",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%94%9F%E6%97%A5%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2396570",
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
           "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
+          "title": "伊朗：尚未就美伊协议达成最终结论。 美国的行动影响了外交进程。",
+          "url": "https://wallstreetcn.com/livenews/3118594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         },
         {
-          "title": "金价抹去今年全部涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
+          "title": "伊朗外交部发言人：伊朗尚未就与美国的协议作出最终决定，美国的行动影响了外交进程。",
+          "url": "https://flash.jin10.com/detail/20260612132330830800",
+          "source": "金十数据",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "13时52分"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     }
