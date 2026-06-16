@@ -1,211 +1,315 @@
 {
-  "generated_at": "2026-06-15T14:29:40.279599+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T14:36:21.587778+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
+      "keyword_group": "伊朗",
+      "match_count": 17,
       "titles": [
         {
-          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
-          "url": "https://wallstreetcn.com/articles/3774634",
-          "source": "华尔街见闻",
+          "title": "伊朗2-2新西兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "80大寿，特朗普被气炸了",
-          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗2:2新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
+          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "普京与特朗普通话",
-          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "title": "伊朗两度扳平2-2新西兰 华裔前锋双响",
+          "url": "https://www.toutiao.com/trending/7651096132386635803/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗国足获准世界杯比赛时在美过夜",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%8E%B7%E5%87%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%97%B6%E5%9C%A8%E7%BE%8E%E8%BF%87%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "世界杯第一战，伊朗顽强扳平！",
+          "url": "https://sports.ifeng.com/c/8u02WQ6gWhG",
           "source": "凤凰网",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
-          "url": "https://www.cls.cn/detail/2399494",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3119465",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗队主帅：球队突然被勒令，立即离开美国",
+          "url": "https://news.ifeng.com/c/8u0F5JVZ8LL",
+          "source": "凤凰网",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "特朗普批评以色列“干扰”美伊签署协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
-          "source": "澎湃新闻",
+          "title": "伊朗外交部发言人顾问：伊朗的导弹计划及其对地区盟友的支持不容谈判。",
+          "url": "https://flash.jin10.com/detail/20260616141341723800",
+          "source": "金十数据",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
+        },
+        {
+          "title": "2026 年美加墨世界杯小组赛 G 组，伊朗 2-2 新西兰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905904623907774",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗外交部发言人顾问：以色列政权在黎巴嫩南部的任何持续战争行为均构成对协议的违反，此类违约行为可能影响谈判进程，伊朗保留对任何违约行为作出回应的权利。",
+          "url": "https://flash.jin10.com/detail/20260616141221771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗外交部发言人顾问：我们将继续支持巴勒斯坦。",
+          "url": "https://flash.jin10.com/detail/20260616141125379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "伊朗2比2战平新西兰",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%972%E6%AF%942%E6%88%98%E5%B9%B3%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美被曝同意伊朗稀释浓缩铀库存",
-          "url": "https://wallstreetcn.com/articles/3774614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "伊朗军方称羞辱了美国和以色列",
-          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "伊朗披露美伊谈判备忘录细节",
-          "url": "https://news.ifeng.com/c/8txGeQ5OLJm",
-          "source": "凤凰网",
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "美国须提出3000亿美元伊朗重建计划",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
+          "title": "美加州州长喊话特朗普：别牵扯我家人",
+          "url": "https://www.toutiao.com/trending/7651735383461396516/",
+          "source": "今日头条",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         },
         {
-          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "14时36分"
+        },
         {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
+          "title": "曝特朗普预计获准打破世界杯颁奖惯例",
+          "url": "https://www.toutiao.com/trending/7651429943464820763/",
+          "source": "今日头条",
           "ranks": [
-            9
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跌破900老板5个手机都忙不过来",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
-          "url": "https://www.cls.cn/detail/2399448",
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
