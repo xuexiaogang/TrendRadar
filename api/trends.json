@@ -1,122 +1,117 @@
 {
-  "generated_at": "2026-07-01T13:25:23.241181+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-02T13:02:34.531571+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "白宫称特朗普加密币获利无利益冲突",
-          "url": "https://wallstreetcn.com/livenews/3127169",
+          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
+          "url": "https://wallstreetcn.com/livenews/3127802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "13时02分"
         },
         {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "13时02分"
         },
         {
-          "title": "开箱特朗普金色手机，499美元就这水平？",
-          "url": "https://news.ifeng.com/c/8uOymWnURUY",
+          "title": "据报OpenAI提出向特朗普政府提供5%的股权",
+          "url": "https://flash.jin10.com/detail/20260702121147449800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "13时02分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "13时02分"
         }
       ]
     },
@@ -125,15 +120,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗警方：在东南部锡斯坦-俾路支斯坦省发生武装袭击，一名警察遇害。",
-          "url": "https://flash.jin10.com/detail/20260701125221411800",
-          "source": "金十数据",
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "13时02分"
         }
       ]
     }
